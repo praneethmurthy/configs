@@ -3,5 +3,5 @@
 Contains bash and vim config files
 1. change the temporary directory of vim swap files
 2. plugins and autocomplete research
-3. something for matlab
-4. don't GROK!!!! (inoremaps, ..._
+3. matlab plugins
+4. don't GROK!!!! (inoremaps, ...)
